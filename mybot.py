@@ -2,7 +2,6 @@
 import sepriche
 from sepriche import *
 from sepri.ttypes import *
-from thrift.unverting import *
 from thrift.TMultiplexedProcessor import *
 from thrift.TSerialization import *
 from thrift.TRecursive import *
