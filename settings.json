@@ -1,0 +1,87 @@
+{
+    "Picture":false,
+    "group":{},
+    "groupPicture":false,
+    "checkContact": false,
+    "postEndUrl": true,
+    "checkPost": false,
+    "setKey": "",
+    "restartPoint": false,
+    "checkSticker": false,
+    "userMentioned": false,
+    "listSticker": false,
+    "messageSticker": false,
+    "changeGroupPicture": [],
+    "keyCommand": "",
+    "AddstickerTag": {
+        "sid": "",
+        "spkg": "",
+        "status": false
+            },
+    "Addsticker":{
+            "name": "",
+            "status":false
+            },
+    "stk":{},
+    "selfbot":true,
+    "Images":{},
+    "Img":{},
+    "Addimage":{
+            "name": "",
+            "status":false
+            },
+    "Videos":{},
+    "Addaudio":{
+            "name": "",
+            "status":false
+            },
+    "Addvideo":{
+            "name": "",
+            "status":false
+            },
+    "myProfile": {
+        "displayName": "",
+        "coverId": "",
+        "pictureStatus": "",
+        "statusMessage": ""
+    },
+    "mimic": {
+        "copy": false,
+        "status": false,
+        "target": {}
+    }, 
+    "unsendMessage": false,
+    "Picture":false,
+    "group":{},
+    "groupPicture":false,
+    "changePicture":false,
+    "changeProfileVideo": false,
+    "ChangeVideoProfilevid":{},
+    "ChangeVideoProfilePicture":{},
+    "autoJoinTicket":false,
+    "SpamInvite":false,
+    "displayName": "",
+    "userAgent": [
+        "Mozilla/5.0 (X11; U; Linux i586; de; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (X11; U; Linux amd64; rv:5.0) Gecko/20100101 Firefox/5.0 (Debian)",
+        "Mozilla/5.0 (X11; U; Linux amd64; en-US; rv:5.0) Gecko/20110619 Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux) Gecko Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux x86_64; rv:5.0) Gecko/20100101 Firefox/5.0 FirePHP/0.5",
+        "Mozilla/5.0 (X11; Linux x86_64; rv:5.0) Gecko/20100101 Firefox/5.0 Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux x86_64) Gecko Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux ppc; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux AMD64) Gecko Firefox/5.0",
+        "Mozilla/5.0 (X11; FreeBSD amd64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.2; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:5.0) Gecko/20110619 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.1.1; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.2; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.1; U; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.1; rv:2.0.1) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.0; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.0; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.200.32.99 Safari/537.36"
+    ]
+}
